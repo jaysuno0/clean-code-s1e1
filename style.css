@@ -40,10 +40,12 @@
   margin: 0;
   padding: 0px;
 }
-.list__item, .section__title {
+.list__item, 
+.section__title {
   list-style: none;
 }
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 .btn {
