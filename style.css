@@ -142,13 +142,13 @@
   width: 226px;
 }
 
-.btn.del .list__img {
+.btn_del .list__img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.btn.del .list__img:hover {
+.btn_del .list__img:hover {
   transform: rotateZ(0);
 }
 
