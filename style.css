@@ -31,7 +31,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .section__wrapper {
   display: flex;
@@ -118,7 +118,7 @@
   width: 226px;
 }
 .list__item .input_text {
-  width: 226px
+  width: 226px;
 }
 .btn.del .list__img {
   height: 2em;
@@ -131,13 +131,13 @@
 
 /* Completed */
 .list_completed .label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list__item .input_text {
-  display: none
+  display: none;
 }
 
 .list__item_edit .input_text {
